@@ -1,9 +1,0 @@
-This is my git exercise
-
-Added second line
-
-<<<<<<< HEAD
-This is my third commit
-=======
-Added line three 
->>>>>>> e88264d38b9746db682bd5703511bb3b2d17fe6d
